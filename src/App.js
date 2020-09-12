@@ -8,7 +8,7 @@ function App() {
       <Title/>
       <UploadForm/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
